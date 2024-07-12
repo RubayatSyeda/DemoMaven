@@ -1,0 +1,201 @@
+2024-06-23 12:07:39.436 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-23 12:07:44.798 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-23 12:07:44.982 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-23 12:07:45.130 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-23 12:07:45.222 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-23 12:07:48.256 [main] ERROR Log4J_Example.SauceLabLoginTest_with_log - no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Products']"}
+  (Session info: chrome=126.0.6478.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e23bde6cc03aca2a6bb6c8eec90836ad, findElement {value=//*[text()='Products'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.115, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\rubay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56138}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56138/devtoo..., se:cdpVersion: 126.0.6478.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e23bde6cc03aca2a6bb6c8eec90836ad
+2024-06-23 12:07:48.288 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-23 12:07:48.663 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-23 12:07:48.666 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-23 12:07:51.459 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-23 12:07:51.682 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-23 12:07:51.891 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-23 12:07:52.057 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-23 12:07:55.107 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-23 12:07:55.476 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-23 12:07:55.481 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-23 12:07:59.045 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-23 12:07:59.306 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-23 12:07:59.515 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-23 12:07:59.624 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-23 12:08:02.658 [main] ERROR Log4J_Example.SauceLabLoginTest_with_log - no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Products']"}
+  (Session info: chrome=126.0.6478.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [166b369ce76374400cfea776b3ae9583, findElement {value=//*[text()='Products'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.115, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\rubay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56192/devtoo..., se:cdpVersion: 126.0.6478.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 166b369ce76374400cfea776b3ae9583
+2024-06-23 12:08:02.662 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-23 12:08:02.938 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-23 12:08:02.940 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-23 12:08:05.511 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-23 12:08:05.808 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-23 12:08:06.071 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-23 12:08:06.175 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-23 12:08:09.224 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-23 12:08:09.523 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-23 12:08:09.526 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-23 12:08:11.770 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-23 12:08:12.076 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-23 12:08:12.337 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-23 12:08:17.488 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-23 12:08:20.526 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-23 12:08:20.779 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-23 12:08:20.782 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-23 12:08:23.862 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-23 12:08:24.126 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-23 12:08:24.306 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-23 12:08:24.406 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-23 12:08:27.461 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-23 12:08:29.357 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-23 12:08:29.360 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-23 12:08:32.635 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-23 12:08:32.916 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-23 12:08:33.114 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-23 12:08:33.287 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-23 12:08:36.328 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-23 12:08:36.658 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 11:41:44.083 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 11:41:48.690 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 11:41:48.979 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 11:41:49.161 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 11:41:49.257 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 11:41:52.291 [main] ERROR Log4J_Example.SauceLabLoginTest_with_log - no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Products']"}
+  (Session info: chrome=126.0.6478.126)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f85c187f13d7404df166256c61d2f921, findElement {value=//*[text()='Products'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.126, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\rubay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50411}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50411/devtoo..., se:cdpVersion: 126.0.6478.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f85c187f13d7404df166256c61d2f921
+2024-06-26 11:41:52.313 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 11:41:52.700 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 11:41:52.704 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 11:41:56.026 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 11:41:56.326 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 11:41:56.498 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 11:41:56.618 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 11:41:59.653 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 11:42:00.002 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 11:42:00.006 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 11:42:03.163 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 11:42:03.487 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 11:42:03.671 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 11:42:03.795 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 11:42:06.823 [main] ERROR Log4J_Example.SauceLabLoginTest_with_log - no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Products']"}
+  (Session info: chrome=126.0.6478.126)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7fc4a55627cd3aa36e8ac6a3d855089f, findElement {value=//*[text()='Products'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.126, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\rubay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50470}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50470/devtoo..., se:cdpVersion: 126.0.6478.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7fc4a55627cd3aa36e8ac6a3d855089f
+2024-06-26 11:42:06.827 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 11:42:07.121 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 11:42:07.125 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 11:42:10.645 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 11:42:10.947 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 11:42:11.141 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 11:42:11.254 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 11:42:14.299 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 11:42:14.592 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 11:42:14.596 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 11:42:17.844 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 11:42:18.112 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 11:42:18.290 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 11:42:23.413 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 11:42:26.456 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 11:42:26.947 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 11:42:26.950 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 11:42:30.016 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 11:42:30.301 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 11:42:30.470 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 11:42:30.597 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 11:42:33.623 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 11:42:33.900 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 11:42:33.904 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 11:42:36.881 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 11:42:37.077 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 11:42:37.277 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 11:42:37.387 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 11:42:40.413 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 11:42:40.747 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 12:55:29.562 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 12:55:32.934 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 12:55:33.222 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 12:55:33.417 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 12:55:33.504 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 12:55:36.538 [main] ERROR Log4J_Example.SauceLabLoginTest_with_log - no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Products']"}
+  (Session info: chrome=126.0.6478.126)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e74375365021afcd2f9347bb1a9c3efb, findElement {using=xpath, value=//*[text()='Products']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.126, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\rubay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51192/devtoo..., se:cdpVersion: 126.0.6478.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e74375365021afcd2f9347bb1a9c3efb
+2024-06-26 12:55:36.572 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 12:55:36.917 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 12:55:36.920 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 12:55:39.939 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 12:55:40.196 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 12:55:40.380 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 12:55:40.528 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 12:55:43.570 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 12:55:43.862 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 12:55:43.864 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 12:55:47.251 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 12:55:47.536 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 12:55:47.701 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 12:55:47.805 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 12:55:50.836 [main] ERROR Log4J_Example.SauceLabLoginTest_with_log - no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Products']"}
+  (Session info: chrome=126.0.6478.126)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0622255929b5b8be4d45ed9a86305ff0, findElement {using=xpath, value=//*[text()='Products']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.126, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\rubay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51253}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51253/devtoo..., se:cdpVersion: 126.0.6478.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0622255929b5b8be4d45ed9a86305ff0
+2024-06-26 12:55:50.841 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 12:55:51.177 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 12:55:51.180 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 12:55:54.083 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 12:55:54.341 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 12:55:54.502 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 12:55:54.635 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 12:55:57.668 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 12:55:57.986 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 12:55:57.990 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 12:56:01.099 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 12:56:01.400 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 12:56:01.565 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 12:56:06.703 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 12:56:09.736 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 12:56:10.021 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 12:56:10.023 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 12:56:12.988 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 12:56:13.239 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 12:56:13.400 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 12:56:13.521 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 12:56:16.556 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 12:56:16.879 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
+2024-06-26 12:56:16.882 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application starting ***************
+2024-06-26 12:56:19.672 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application started ***************
+2024-06-26 12:56:19.944 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Username entered
+2024-06-26 12:56:20.129 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Password entered
+2024-06-26 12:56:20.275 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - Clicked on login button
+2024-06-26 12:56:23.321 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closing ***************
+2024-06-26 12:56:23.602 [main] INFO  Log4J_Example.SauceLabLoginTest_with_log - *************** Application closed ***************
